@@ -1,1 +1,2 @@
-flask==3.0.3
+flask==3.0.3  # Or the latest version; this ensures compatibility
+gunicorn==22.0.0  # Production server recommended by Render for Flask apps
